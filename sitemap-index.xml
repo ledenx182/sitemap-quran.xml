@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <sitemap>
-<loc>https://github.com/ledenx182/sitemap-quran-1.xml</loc>
+<loc>https://raw.githubusercontent.com/ledenx182/sitemap-quran.xml/refs/heads/main/sitemap-quran-1.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://github.com/ledenx182/sitemap-quran-2.xml</loc>
+<loc>https://raw.githubusercontent.com/ledenx182/sitemap-quran.xml/refs/heads/main/sitemap-quran-2.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://github.com/ledenx182/sitemap-quran-3.xml</loc>
+<loc>https://raw.githubusercontent.com/ledenx182/sitemap-quran.xml/refs/heads/main/sitemap-quran-3.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://github.com/ledenx182/sitemap-quran-4.xml</loc>
+<loc>https://raw.githubusercontent.com/ledenx182/sitemap-quran.xml/refs/heads/main/sitemap-quran-4.xml</loc>
 </sitemap>
 <sitemap>
-<loc>https://github.com/ledenx182/sitemap-quran-5.xml</loc>
+<loc>https://raw.githubusercontent.com/ledenx182/sitemap-quran.xml/refs/heads/main/sitemap-quran-5.xml</loc>
 </sitemap>
 </sitemapindex>
